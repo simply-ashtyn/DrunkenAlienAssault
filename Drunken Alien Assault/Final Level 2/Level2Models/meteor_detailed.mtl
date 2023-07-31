@@ -1,0 +1,12 @@
+# Blender MTL File: 'Final_Level_2.blend'
+# Material Count: 1
+
+newmtl rockTrack
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.661864 0.394189 0.305608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
